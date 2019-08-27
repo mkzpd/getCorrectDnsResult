@@ -1,6 +1,8 @@
 # getCorrectDnsResult
 a tool that can help you get correct dns result without use proxy (in China).
 
+[中文说明][Chinese Readme]
+
 ## usage: 
 
 run the below command:
@@ -26,3 +28,6 @@ input domain that you want to query, for example:
     google.com 
     twitter.com
     facebook.com
+
+
+[Chinese Readme]:    https://github.com/mkzpd/getCorrectDnsResult/wiki
