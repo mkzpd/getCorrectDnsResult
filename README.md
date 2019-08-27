@@ -1,5 +1,5 @@
 # getCorrectDnsResult
-a tool that can help you get correct dns result without use proxy
+a tool that can help you get correct dns result without use proxy (in China).
 
 ## usage: 
 
