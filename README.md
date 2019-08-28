@@ -5,7 +5,7 @@ a tool that can help you get correct dns result without use proxy (in China).
 
 ## usage: 
 
-git the project:
+clone the project:
 
     git clone https://github.com/mkzpd/getCorrectDnsResult.git
     cd getCorrectDnsResult
