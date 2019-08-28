@@ -5,6 +5,11 @@ a tool that can help you get correct dns result without use proxy (in China).
 
 ## usage: 
 
+git the project:
+
+    git clone https://github.com/mkzpd/getCorrectDnsResult.git
+    cd getCorrectDnsResult
+
 run the below command:
 
     stdbuf -i0 -o0 -e0 unbuffer  nohup  tshark -f "udp port 53" -Y "dns.qry.type == 1 and dns.flags.response == 1 and ip.src == 8.8.8.8" > nohup.out &
